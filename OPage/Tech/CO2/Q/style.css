@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+/* Header/Logo Title */
+.header {
+  padding: 50px;
+  text-align: center;            /* header position*/
+  background: black;              /* header backgroung color then font color*/
+  color: white;
+  font-size: 30px;                /* header font size*/
+}
